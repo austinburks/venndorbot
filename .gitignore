@@ -1,2 +1,5 @@
 Scripts/
+Lib/
+tcl/
+Include/
 .env
